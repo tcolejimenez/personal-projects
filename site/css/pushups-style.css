@@ -65,5 +65,8 @@ h1 {
 
 #extras-card {
     background-color: #136fab;
+}
 
+main {
+    max-width: %;
 }
