@@ -1,3 +1,6 @@
+
+
+
 code {
     color: #00b1ab;
 }
@@ -22,4 +25,48 @@ h1 {
 
 .exercise-title {
     font-weight: bold;
+}
+
+.color-box {
+
+    position: relative;
+}
+
+.card-icon {
+    position: absolute;
+    right: 12px;
+    top: 90px;
+    width: 20%;
+    height: 20%;
+
+}
+
+#agenda-card {
+    background-color: rgba(246, 200, 0, 0.73);
+}
+
+#schedule-card {
+    background-color: #ffeda6;
+}
+
+#glossary-card {
+    background-color: #c2c2c2;
+}
+
+#resources-card {
+    background-color: #7e7e7e;
+
+}
+
+#pushups-card {
+    background-color: #68a3cf;
+
+}
+
+#extras-card {
+    background-color: #136fab;
+}
+
+main {
+    max-width: %;
 }
